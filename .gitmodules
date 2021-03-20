@@ -14,3 +14,11 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/p16foti/_gallery.git
+	branch = 2016046
+[submodule "images"]
+	path = images
+	url = https://github.com/p16foti/images.git
+	branch = 2016046
