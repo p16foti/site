@@ -17,5 +17,6 @@ events:
   - github-contributions
   - kickstarter-pebble
   - google-play
+  - google-translate
 ---
 
