@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Βιντεοπαιχνίδια 
-image_url: /images/spacewar-players.jpg
+image_url: /images/playstation.jpg
 caption: Τα βίντεοπαιχνίδια ακολουθούν μια παράλληλη με τους υπολογιστές γραφείου διαδρομή, με διαφορετικά είδη γραφικών και συσκευών εισόδου, καθώς και άλλες μεταφορές για την αλληλεπίδραση με τον χρήστη. 
 events:
   - spacewar-players
@@ -15,4 +15,5 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
+  - playstation
 ---
